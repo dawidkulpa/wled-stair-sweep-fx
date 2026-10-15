@@ -1,6 +1,6 @@
 {
   "name": "wled-stair-sweep-fx",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "WLED usermod: one-shot Smooth Sweep effect with a soft gradient edge for stair lights",
   "build": { "libArchive": false },
   "dependencies": {}
